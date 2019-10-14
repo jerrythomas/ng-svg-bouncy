@@ -1,0 +1,16 @@
+:host {
+  display: flex;
+  width: 100%;
+  height: 100%;
+
+  circle {
+    //fill: #f9c667; /* Old browsers */
+    //fill: -moz-linear-gradient(-45deg, #f9c667 0%, #f79621 100%); /* FF3.6-15 */
+    //fill: -webkit-linear-gradient(-45deg, #f9c667 0%,#f79621 100%); /* Chrome10-25,Safari5.1-6 */
+    fill: linear-gradient(135deg, #f9c667 0%,#f79621 100%); 
+  }
+  .basketball {
+    fill: #EF7E57;
+    fill-opacity: 1;
+  }
+}
